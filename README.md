@@ -38,7 +38,7 @@ Bundles files into a single output.
 * `-e, --empty`✂️: Remove empty lines from the source files.
 * `-a, --author <name>`👤: Adds the developer's name at the top of the file.
 
-### 2. `rsp`
+### 2. `rsp` 🔵
 
 An interactive helper that asks you questions and generates a response file (`rsp.rsp`). This allows you to run the bundle command without typing long strings of arguments.
 
